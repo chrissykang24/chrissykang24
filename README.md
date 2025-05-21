@@ -1,4 +1,5 @@
-## Hi there 👋 
+## Hi there 👋
+My name is Chrissy, and I'm a Computer Engineer interested in data structure! 
 
 <!--
 **chrissykang24/chrissykang24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
